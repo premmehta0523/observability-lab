@@ -13,9 +13,11 @@ This project monitors applications and infrastructure using:
 
 ## How to run it
 
+```bash
 git clone https://github.com/premmehta0523/observability-lab.git
 cd observability-lab
 docker compose up -d
+```
 
 ## Open in browser
 
